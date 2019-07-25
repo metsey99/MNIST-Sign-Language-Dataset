@@ -5,4 +5,4 @@ In training and in test set folders the the names of the folders are the label o
 
 It consist of 28x28 grayscale American Sign Language alphabet pictures excluding letter 'Z' and 'J' because they need motion in order to represent. 
 
-![alt text](https://ibb.co/7J6h1wN)
+![alt text](amer_sign2.png)
